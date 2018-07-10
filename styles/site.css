@@ -40,9 +40,9 @@ body{
     color: var(--secondary-color);
 }
 /* Burger menu icon */
-#nav-burger-icon {
-    background-color: var(--secondary-font-color);
-}
+.fa.fa-navicon {
+    color:white;
+  }
 /* -- */
 
 /* Parallax rules */
